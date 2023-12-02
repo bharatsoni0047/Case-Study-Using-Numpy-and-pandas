@@ -1,5 +1,6 @@
-Data Analysis with NumPy and Pandas Case Study
-Overview
+#Data Analysis with NumPy and Pandas Case Study
+
+Overview:
 This repository contains a comprehensive case study showcasing the application of NumPy and Pandas in solving data analysis challenges. The case study is implemented using Google Colab.
 
 Key Highlights
